@@ -1,1 +1,3 @@
 # build go version hello world on empty images ...
+see me https://github.com/qjpoo/docker-auto-buid
+thank you !!
