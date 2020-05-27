@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER darebeat<fengwei2010@126.com>
+MAINTAINER quinn<qjpoo@163.com>
 
 RUN yum install -y openssh-server sudo openssh-clients wget
 
