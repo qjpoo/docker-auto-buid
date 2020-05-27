@@ -1,6 +1,6 @@
 FROM darebeat/ssh
 
-MAINTAINER darebeat<darebeat@126.com>
+MAINTAINER quinn <qjpoo@163.com>
 
 ARG JDK_VERSION=201
 # java

@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER Darebeat <fengwei2010@126.com>
+MAINTAINER quinn <qjpoo@163.com>
 
 ADD ./src /
 WORKDIR /opt

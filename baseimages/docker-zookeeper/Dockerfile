@@ -1,6 +1,6 @@
 FROM darebeat/jdk8
 
-MAINTAINER darebeat<darebeat@126.com>
+MAINTAINER quinn <qjpoo@163.com>
 
 ARG ZK_VERSION=3.4.13
 ENV	ZK_HOME=/opt/zookeeper-${ZK_VERSION} \
